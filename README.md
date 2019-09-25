@@ -15,6 +15,8 @@
 - [白话中台战略-4：Platform as a Product(组织篇)](https://mp.weixin.qq.com/s/S6DR0me4v34tD6OIgqcqyw)
 - [白话中台战略-番外篇：从互联网巨头变阵看中台战略](https://mp.weixin.qq.com/s/ALFyyxQk21SdpL9w3FqRuQ)
 
+- [数据中台已成下一风口，它会颠覆数据工程师的工作吗？](https://mp.weixin.qq.com/s/_KsFeHGUt62A7w3kvNlf2A)
+
 ### 技术架构知识体系
 
 - [《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md)
