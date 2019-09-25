@@ -7,10 +7,15 @@
 
 ## 架构
 
+### 中台
+
 - [中台是个什么鬼 | 白话中台战略](https://mp.weixin.qq.com/s/U7UZ3FYyWzQobPUm9mRJhA)
 - [白话中台战略-2 中台到底长啥样？](https://mp.weixin.qq.com/s/3jPfSOrE1DSOcURoLf_5HQ)
 - [白话中台战略-3：中台的定义](https://mp.weixin.qq.com/s/4JxgeeZeVaOASXUKjwTflg)
 - [白话中台战略-4：Platform as a Product(组织篇)](https://mp.weixin.qq.com/s/S6DR0me4v34tD6OIgqcqyw)
 - [白话中台战略-番外篇：从互联网巨头变阵看中台战略](https://mp.weixin.qq.com/s/ALFyyxQk21SdpL9w3FqRuQ)
 
+### 技术架构知识体系
 
+- [《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md)
+- [程序员技能图谱](https://github.com/TeamStuQ/skill-map)
