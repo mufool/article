@@ -24,5 +24,5 @@
 
 ## 网址
 
-[少数派](https://sspai.com/topics)
-[机器之心](https://www.jiqizhixin.com/)
+- [少数派](https://sspai.com/topics)
+- [机器之心](https://www.jiqizhixin.com/)
