@@ -21,3 +21,8 @@
 
 - [《后端架构师技术图谱》](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md)
 - [程序员技能图谱](https://github.com/TeamStuQ/skill-map)
+
+## 网址
+
+[少数派](https://sspai.com/topics)
+[机器之心](https://www.jiqizhixin.com/)
