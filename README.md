@@ -26,3 +26,10 @@
 
 - [少数派](https://sspai.com/topics)
 - [机器之心](https://www.jiqizhixin.com/)
+
+## 工具
+
+### vim
+
+[spf13-vim](https://github.com/spf13/spf13-vim)
+[Windows 平台下的 Vim 和 spf13 安装](https://deardrops.github.io/post/install-vim-with-spf13/)
