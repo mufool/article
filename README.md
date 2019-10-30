@@ -33,3 +33,7 @@
 
 - [spf13-vim](https://github.com/spf13/spf13-vim)
 - [Windows 平台下的 Vim 和 spf13 安装](https://deardrops.github.io/post/install-vim-with-spf13/)
+
+## github仓库汇总
+
+- [github汇总](https://github.com/xjjdog/java-awesome-fucker)
