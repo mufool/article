@@ -37,3 +37,7 @@
 ## github仓库汇总
 
 - [github汇总](https://github.com/xjjdog/java-awesome-fucker)
+
+## 书籍/电影
+
+- [知乎22个关于书籍、电影的高质量回答](https://post.smzdm.com/p/a3gw2qz7/)
