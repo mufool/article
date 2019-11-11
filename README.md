@@ -38,6 +38,10 @@
 
 - [github汇总](https://github.com/xjjdog/java-awesome-fucker)
 
+## 图形图像
+
+- [图像处理初学者应该学习的100个问题](https://github.com/gzr2017/ImageProcessing100Wen)
+
 ## 书籍/电影
 
 - [知乎22个关于书籍、电影的高质量回答](https://post.smzdm.com/p/a3gw2qz7/)
