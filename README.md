@@ -34,6 +34,10 @@
 - [spf13-vim](https://github.com/spf13/spf13-vim)
 - [Windows 平台下的 Vim 和 spf13 安装](https://deardrops.github.io/post/install-vim-with-spf13/)
 
+### nginx
+
+- [Nginx通关攻略](https://juejin.im/post/5ddca5536fb9a07a9f72e970)
+
 ## github仓库汇总
 
 - [github汇总](https://github.com/xjjdog/java-awesome-fucker)
